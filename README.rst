@@ -16,7 +16,8 @@ pypackagemodel
 
 
 
-A model project for Python package development.
+A model project for Python package development. Describe the steps and tooling to create and manage a Python package
+project from creation, coding, testing, deployment, and distribution.
 
 
 * Free software: GNU General Public License v3
